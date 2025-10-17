@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <form action="post_example.php" method="POST">
+    <form action="POST_example.php" method="POST">
         <input type="text" name="name" placeholder="Name here...">
         <input type="text" name="message" placeholder="Message here...">
 

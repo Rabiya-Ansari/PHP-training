@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <form action="get_example.php" method="GET">
+    <form action="Get_example.php" method="GET">
         <input type="text" name="name" placeholder="Name here...">
         <input type="text" name="message" placeholder="Message here...">
 
